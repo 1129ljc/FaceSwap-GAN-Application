@@ -15,8 +15,12 @@ Jupyter执行ipynb文件或者Python执行py文件
 
 ## Johnson2Trump
 
-<video src="./test_result/result.mp4"></video>
+![](./test_result/1.gif)
 
-## 来源
+## 模型地址
+
+https://drive.google.com/drive/folders/1xHtLi_sZxsOq1eyjlIUzV40WIftyaH8h
+
+## 算法来源
 
 https://github.com/shaoanlu/faceswap-GAN
